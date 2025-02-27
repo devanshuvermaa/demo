@@ -1,2 +1,2 @@
 # demo
-it is a demo file only
+it is a demo file
